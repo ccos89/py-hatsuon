@@ -1,4 +1,4 @@
-# Port of 'Hatsuon' by Duncan Bay (https://github.com/DJTB/hatsuon) to Python by ccos
+# Based on 'Hatsuon' by Duncan Bay (https://github.com/DJTB/hatsuon), written for Python by ccos
 
 from utils import getMoraCount, getPitchPatternName, makePitchPattern
 
